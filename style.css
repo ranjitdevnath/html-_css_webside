@@ -1,0 +1,72 @@
+body{
+     font-family: 'Times New Roman', Times, serif;
+}
+.taitle{
+     text-align: center;
+     color: green;
+}
+.parent{
+     display: flex;
+     width: 80%;
+     margin: 0 auto;
+}
+.photo img{
+     width: 250px;
+     position:relative;
+     bottom: 30px;
+     left: 30px;
+}
+.details_btn{
+     padding:15px 50px;
+     background-image: linear-gradient(45deg,green,red,green);
+     border-radius: 5px;
+     border: none;
+     font-weight: 700;
+     transition: 0.5s;
+}
+.details_btn:hover{
+     color: white;
+     cursor: pointer;
+}
+
+/* first section end */
+
+.second_section{
+     text-align: center;
+     margin-top: 50px;
+}
+.dhaka{
+     width: 250px;
+     border: 1px solid gray;
+     box-shadow: 4px 4px 12px gray;
+     border-radius: 5px;
+}
+.div_image img{
+     width: 100%;
+}
+.all_divisions{
+     display: flex;
+     justify-content:space-evenly;
+     padding: 50px;
+}
+.buttom_section{
+     padding: 15px;
+}
+.details{
+     padding: 6px 10px;
+     background-color: green;
+     border-radius: 5px;
+     border: none;
+     transition: 0.5s;
+}
+.details:hover{
+     background-color: aqua;
+     color: tomato;
+
+}
+footer{
+     text-align: center;
+     font-size: 12px;
+}
+
+/* second section end */
