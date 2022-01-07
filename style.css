@@ -14,7 +14,7 @@ body{
      width: 250px;
      position:relative;
      bottom: 30px;
-     left: 30px;
+     left: 70px;
 }
 .details_btn{
      padding:15px 50px;
@@ -46,7 +46,7 @@ body{
 }
 .all_divisions{
      display: flex;
-     justify-content:space-evenly;
+     justify-content:space-between;
      padding: 50px;
 }
 .buttom_section{
